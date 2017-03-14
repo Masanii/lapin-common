@@ -7,7 +7,7 @@
   <packaging>jar</packaging>
   <version>0.0.1</version>
   <name>Lapin Common</name>
-  <url>http://example.com</url>
+  <url>https://github.com/Masanii/lapin-common</url>
   
   <properties>
   </properties>
@@ -24,7 +24,7 @@
     </profile>
   </profiles>
   <build>
-    <finalName>lapinCommon</finalName>
+    <finalName>lapin-common</finalName>
     <plugins>
       <plugin>
         <groupId>org.apache.maven.plugins</groupId>
